@@ -1,0 +1,4 @@
+# Aliases
+alias ccat="highlight -O ansi --force"
+alias apti="aptitude search -F '%c - %p - %d - %V'"
+
